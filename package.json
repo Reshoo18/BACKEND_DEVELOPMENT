@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "backend-mern",
   "version": "1.0.0",
   "description": "for learning backend chai or code ",
@@ -16,5 +17,26 @@
     "axios": "^1.11.0",
     "dotenv": "^17.2.2",
     "express": "^5.1.0"
+=======
+  "name": "public",
+  "version": "1.0.0",
+  "description": "a backend in at chai or code channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "javascript,backend"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "reshoo ranjan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+>>>>>>> cf24efb (new project)
   }
 }
